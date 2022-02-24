@@ -10,3 +10,20 @@
 #sezione2 img {
   border-radius: 10%;
 }
+
+#sezione4 {
+  background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+  background-size: cover;
+}
+
+#nuove-uscite {
+  background-color: #1f1f1f;
+}
+
+.card {
+  background-color: #1f1f1f;
+}
+
+#nuove-uscite img {
+  border-radius: 10%;
+}
