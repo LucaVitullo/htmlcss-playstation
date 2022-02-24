@@ -20,10 +20,20 @@
   background-color: #1f1f1f;
 }
 
-.card {
+#nuove-uscite .card {
   background-color: #1f1f1f;
 }
 
 #nuove-uscite img {
   border-radius: 10%;
+}
+#playstation-plus {
+  background-color: #bebcbb;
+}
+#playstation-plus .card {
+  background-color: #bebcbb;
+}
+
+#playstation-plus .btn {
+  background-color: #d9dadc;
 }
