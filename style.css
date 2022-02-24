@@ -5,6 +5,7 @@
 #jumbo {
   background-image: url(img/jumbo-bg.png);
   background-size: cover;
+  background-position-x: center;
 }
 
 #sezione2 img {
@@ -14,6 +15,7 @@
 #sezione4 {
   background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
   background-size: cover;
+  background-position-x: center;
 }
 
 #nuove-uscite {
@@ -36,4 +38,21 @@
 
 #playstation-plus .btn {
   background-color: #d9dadc;
+}
+#playstation-now {
+  background-color: #161c3b;
+}
+#playstation-now .card {
+  background-color: #161c3b;
+}
+#playstation-now .btn {
+  background-color: #f5f5f5;
+}
+
+footer {
+  background-color: #00439c;
+}
+footer img {
+  width: 5rem;
+  color: white;
 }
