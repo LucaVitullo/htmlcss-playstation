@@ -1,0 +1,12 @@
+.w_50 {
+  width: 50px;
+}
+
+#jumbo {
+  background-image: url(img/jumbo-bg.png);
+  background-size: cover;
+}
+
+#sezione2 img {
+  border-radius: 10%;
+}
