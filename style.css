@@ -56,3 +56,6 @@ footer img {
   width: 5rem;
   color: white;
 }
+footer ul li {
+  list-style-type: none;
+}
