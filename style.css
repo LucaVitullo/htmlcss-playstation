@@ -2,6 +2,10 @@
   width: 50px;
 }
 
+header {
+  z-index: 2;
+}
+
 #jumbo {
   background-image: url(img/jumbo-bg.png);
   background-size: cover;
