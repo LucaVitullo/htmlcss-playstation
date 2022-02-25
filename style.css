@@ -4,12 +4,21 @@
 
 header {
   z-index: 2;
+  top: 0;
 }
 
 #jumbo {
   background-image: url(img/jumbo-bg.png);
   background-size: cover;
   background-position-x: center;
+  margin-top: 5rem;
+}
+#sezione2 img:hover {
+  transform: scale(1.1);
+}
+#console .row img:hover {
+  transform: scale(1.1);
+  border-bottom: 1px solid blue;
 }
 
 #sezione2 img {
@@ -32,6 +41,10 @@ header {
 
 #nuove-uscite img {
   border-radius: 10%;
+}
+#nuove-uscite img:hover {
+  transform: scale(1.1);
+  transition: 1s;
 }
 #playstation-plus {
   background-color: #bebcbb;
