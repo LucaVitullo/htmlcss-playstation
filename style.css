@@ -24,6 +24,10 @@ header {
 #sezione2 img {
   border-radius: 10%;
 }
+.active:hover {
+  border-bottom: 1px solid blue !important;
+  opacity: 25%;
+}
 
 #sezione4 {
   background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
@@ -75,4 +79,12 @@ footer img {
 }
 footer ul li {
   list-style-type: none;
+}
+footer ul li a {
+  text-decoration: none;
+  color: white;
+}
+footer a:hover {
+  text-decoration: underline;
+  color: white;
 }
